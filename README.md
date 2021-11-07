@@ -11,67 +11,38 @@
 # Ignite Project
 Dashgo is an example of a responsive dashboard created with Next.js and Chakra UI.
 
-### Screens
-<p align="left">
-  <img
-    alt="Dashgo Login"
-    title="Dashgo Login"
-    width="77%"
-    src=".github/dashgo_login.png"
-  />
+### Desktop
+<p align="center">
+  <img alt="Dashgo Login" title="Dashgo Login" src=".github/dashgo_login.png" />
+  <img alt="Dashgo Dashboard" title="Dashgo Dashboard" src=".github/dashgo_dashboard.png" />
+  <img alt="Dashgo Users" title="Dashgo Users" src=".github/dashgo_users.png" />
+  <img alt="Dashgo Create User" title="Dashgo Create User" src=".github/dashgo_create_user.png" />
+</p>
+
+### Mobile
+<p align="center">
   <img
     alt="Dashgo Mobile Login"
     title="Dashgo Mobile Login"
-    width="20.5%"
-    align="right"
+    width="49%"
     src=".github/dashgo_mobile_login.jpg"
-  />
-</p>
-
-<p align="left">
-  <img
-    alt="Dashgo Dashboard"
-    title="Dashgo Dashboard"
-    width="77%"
-    src=".github/dashgo_dashboard.png"
   />
   <img
     alt="Dashgo Mobile Dashboard"
     title="Dashgo Mobile Dashboard"
-    width="20.5%"
-    align="right"
+    width="49%"
     src=".github/dashgo_mobile_dashboard.jpg"
-  />
-</p>
-
-<p align="left">
-  <img
-    alt="Dashgo Users"
-    title="Dashgo Users"
-    width="77%"
-    src=".github/dashgo_users.png"
   />
   <img
     alt="Dashgo Mobile Users"
     title="Dashgo Mobile Users"
-    width="20.5%"
-    align="right"
+    width="49%"
     src=".github/dashgo_mobile_users.jpg"
-  />
-</p>
-
-<p align="left">
-  <img
-    alt="Dashgo User"
-    title="Dashgo User"
-    width="77%"
-    src=".github/dashgo_create_user.png"
   />
   <img
     alt="Dashgo Mobile Create User"
     title="Dashgo Mobile Create User"
-    width="20.5%"
-    align="right"
+    width="49%"
     src=".github/dashgo_mobile_create_user.jpg"
   />
 </p>
